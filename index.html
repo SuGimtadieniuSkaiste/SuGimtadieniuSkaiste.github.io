@@ -14,7 +14,7 @@
     <img src="https://github.com/SuGimtadieniuSkaiste/SuGimtadieniuSkaiste.github.io/blob/master/0/12584.png?raw=true" alt="HTML5 Icon" width="200" height="200">
   <br/>
   <br/>
-<input id="slaptazodis" oninput="onInput()">
+<input id="slaptazodis"  oninput="onInput()">
 <p id="url"></p>
 
 <script>
@@ -24,7 +24,11 @@ function onInput() {
 
   // If x is Not a Number or less than one or greater than 10
   if (x == 'Maksas') {
-    document.getElementById("url").innerHTML = "<form action=\"http://google.com\">    <input type=\"submit\" value=\"Kitas\" /></form>";
+    document.getElementById("url").innerHTML = "<form " +
+      "action=\"https://sugimtadieniuskaiste.github.io/0/15284.html\"> "+
+      "<input type=\"submit\" " +
+        "value=\"Kitas\" /> " +
+      "</form>";
   }
 }
 </script>
