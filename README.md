@@ -18,7 +18,7 @@ https://colorlib.com/wp/templates/
 git clone https://github.com/SuGimtadieniuSkaiste/SuGimtadieniuSkaiste.github.io.git
 cd SuGimtadieniuSkaiste.github.io
 git remote add origin https://SuGimtadieniuSkaiste:Maksimuska69@github.com/SuGimtadieniuSkaiste/SuGimtadieniuSkaiste.github.io.git
-code .
+code . 
 
 # VS Code
 install Live Server:
