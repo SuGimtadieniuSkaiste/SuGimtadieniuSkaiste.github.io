@@ -16,3 +16,5 @@ install Live Server:
 4) Navigate to index.html
 5) Click on 'Go Live'
 
+![VSCODE](https://github.com/SuGimtadieniuSkaiste/SuGimtadieniuSkaiste.github.io/blob/master/help.png)
+
