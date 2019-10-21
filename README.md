@@ -4,7 +4,10 @@ https://sugimtadieniuskaiste.github.io
 
 # QR
 https://app.qr-code-generator.com
+
 https://qrco.de/Skaistelka
+
+<img src="https://github.com/SuGimtadieniuSkaiste/SuGimtadieniuSkaiste.github.io/blob/master/qr.png" width="200" height="300">
 
 
 
