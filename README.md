@@ -1,4 +1,11 @@
 
+# Hosted web
+https://sugimtadieniuskaiste.github.io
+
+# QR
+https://app.qr-code-generator.com
+
+
 # Templates for web
 https://colorlib.com/wp/templates/
 
