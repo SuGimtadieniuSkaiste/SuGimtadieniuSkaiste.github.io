@@ -4,6 +4,8 @@ https://sugimtadieniuskaiste.github.io
 
 # QR
 https://app.qr-code-generator.com
+https://qrco.de/Skaistelka
+
 
 
 # Templates for web
